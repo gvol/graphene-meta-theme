@@ -3,7 +3,7 @@
 ;; Copyright (c) 2015 Robert Dallas Gray
 ;;
 ;; Author: Robert Dallas Gray <mail@robertdallasgray.com>
-;; URL: https://github.com/rdallasgray/graphene
+;; URL: https://github.com/rdallasgray/graphene-meta-theme
 ;; Version: 0.0.2
 ;; Keywords: defaults
 
